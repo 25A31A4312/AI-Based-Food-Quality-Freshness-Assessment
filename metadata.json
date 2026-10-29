@@ -1,0 +1,6 @@
+{
+  "name": "T238 – AI-Based Food Quality & Freshness Assessment",
+  "description": "Computer vision and deep learning food quality assessment system classifying food freshness (Fresh, Aging, Visibly Spoiled), identifying categories, and evaluating visible decay indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
