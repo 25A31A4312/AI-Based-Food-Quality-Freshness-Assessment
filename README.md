@@ -1,4 +1,4 @@
-# T238 – AI-Based Food Quality & Freshness Assessment
+🌿# T238 – AI-Based Food Quality & Freshness Assessment
 
 An AI-powered Computer Vision and Deep Learning system designed to analyze food images and classify their visible freshness condition into three distinct categories:
 - **Fresh** (firm, uniform vibrant pigmentation, intact cellular boundary)
@@ -85,3 +85,4 @@ python train.py --epochs 10
 uvicorn app:app --port 8000 --reload
 ```
 In the frontend dashboard, you can switch the engine selector to **"Local Python FastAPI"** to test local model inference directly!
+here is the demo link of the project 🔗: https://ai-based-food-quality-freshness-p3hl.onrender.com/
